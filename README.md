@@ -27,48 +27,81 @@ I am pursuing remote entry-level opportunities in IT support, help desk, technic
 
 > My experience is currently based on guided coursework, hands-on labs, and independent practice. I am continuing to build real-world depth in these areas.
 
-## MyComputerCareer Course & Lab Portfolio
+## MyComputerCareer Training & Lab Portfolio
 
-The projects below were completed in guided training environments and are presented as examples of the tasks and tools I have practiced.
+The work below was completed in guided virtual or cloud lab environments. It demonstrates tools and tasks I have practiced; it is not presented as professional IT employment.
 
 <details>
-<summary><strong>Course 1: Networking I — selected labs</strong></summary>
+<summary><strong>Networking I — verified completed labs</strong></summary>
 
-### Configure Printers and External Devices
-Configured and shared printers in network and Windows domain lab environments. Created a local printer, shared it across a network, created a separate domain printer, connected from a domain-joined virtual machine, and verified deployment.
+### Windows support and administration
 
-### Use Operating System Tools and Features
-Used Windows administrative tools to manage and troubleshoot a lab computer. Practiced Task Scheduler, Windows Memory Diagnostic, user permissions, File History, system backup, and application-control policies through Local Group Policy.
+- Configured printers and external devices in network and Windows domain lab environments
+- Used Task Scheduler, Windows Memory Diagnostic, user permissions, File History, system backup, and Local Group Policy
+- Performed a clean installation and initial configuration of Windows 10
 
-### Perform a Clean Installation of Windows 10
-Installed and configured Windows 10 in a lab environment, including disk partitioning, initial setup, creation of a user profile, and verification of the final disk configuration.
+### Networking and remote support
 
-### Perform Network Troubleshooting
-Diagnosed simulated network communication issues using Event Viewer, Windows Network Diagnostics, ping, and Resource Monitor to inspect connectivity, active network processes, and remote IP connections.
+- Troubleshot simulated connectivity issues with Event Viewer, Windows Network Diagnostics, ping, and Resource Monitor
+- Performed introductory network analysis with Nmap to identify devices, open ports, and services
+- Configured Remote Desktop access and practiced remotely accessing a Windows system
 
-### Perform Network Analysis
-Tested internet and local network speeds and used Nmap in a lab environment to identify connected devices, open ports, operating-system indicators, and active network services.
+### Automation and cloud fundamentals
+
+- Created a basic Windows PowerShell script in a guided lab
+- Completed introductory AWS cloud configuration exercises
+- Practiced using AI to support and optimize IT operations
+
+Canvas records verify successful completion of ten graded labs, all graded at 100%, plus a 100% course final exam.
 
 </details>
 
 <details>
-<summary><strong>Additional ITSA coursework</strong></summary>
+<summary><strong>Computer & Security Essentials / Microsoft AI-901 — verified completed labs</strong></summary>
 
-- Computer & Security Essentials
+- Built and tested generative-AI workflows in Microsoft Foundry
+- Analyzed text sentiment with Azure AI services
+- Integrated Azure AI Immersive Reader in a guided application lab
+- Explored computer vision and generated image descriptions with Azure AI services
+- Processed documents with Azure AI Document Intelligence Studio
+- Created a chatbot from a custom AI prompt and configured prompts using company data
+
+Canvas records show 100% across the graded lab, post-assessment, homework, and final-exam categories. This coursework supported preparation for the Microsoft Azure AI Fundamentals certification.
+
+</details>
+
+<details>
+<summary><strong>Upcoming ITSA coursework</strong></summary>
+
 - Operating Systems I
-- Security I
+- Security I / Network+
 - Server I
-- Networking & Security I
+- Networking & Security I / Security+
 
-Detailed lab write-ups will be added as they are reviewed and prepared for publication.
+These courses are scheduled and will be added only after relevant work is completed and verified.
 
 </details>
 
-## Credentials & Continuing Development
+## Certifications & Continuing Development
 
-- MyComputerCareer ITSA program — coursework and hands-on labs in progress
-- Microsoft credentials and learning badges — verified titles and links will be added after review
-- Continuing independent practice in Windows support, hardware, networking, and customer-focused troubleshooting
+- **[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/gatlinbehnken-5017/credentials/certification/azure-ai-fundamentals?tab=credentials-tab&source=docs)** — active, earned September 18, 2026 (AI-901)
+- **MyComputerCareer ITSA program** — coursework and hands-on labs in progress
+- Continuing independent practice in Windows support, hardware, networking, AI fundamentals, and customer-focused troubleshooting
+
+<details>
+<summary><strong>Microsoft Learn module badges (7)</strong></summary>
+
+- Boost your productivity with Microsoft Copilot
+- Get started with Microsoft Copilot
+- Get started with AI in Azure
+- Get started with generative AI and agents in Azure
+- Introduction to generative AI and agents
+- Introduction to machine learning concepts
+- Get started with machine learning in Azure
+
+[View the verified Microsoft Learn profile](https://learn.microsoft.com/en-us/users/gatlinbehnken-5017/achievements?tab=credentials-tab&source=docs)
+
+</details>
 
 ## Projects
 
