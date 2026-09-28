@@ -105,6 +105,10 @@ These courses are scheduled and will be added only after relevant work is comple
 
 ## Projects
 
+### [IT Support Lab Portfolio](https://github.com/GatlinBehnken/it-support-lab-portfolio)
+
+Documented Windows installation, troubleshooting, remote support, administration, network analysis, and foundational PowerShell labs completed through guided IT training.
+
 Additional projects will be added as they are documented. AI-assisted work will be labeled clearly, including what I planned, configured, tested, and learned personally.
 
 ---
